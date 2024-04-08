@@ -1,7 +1,7 @@
 
 # Encurtador de URL
 
-Este projeto nasceu com o objetivo de fazer parte do meu currículo e também de me ajudar a aprender algumas coisas novas no mundo Python. Uma das coisas legais que incluí foi o uso do Redis, que é tipo um superpoder para melhorar a performance, especialmente quando combinado com o bom e velho Postgres. Então, além de tornar tudo mais rápido, essa mistura toda também me deu uma baita lição sobre tecnologias legais que estão surgindo.
+Este projeto nasceu com o objetivo de fazer parte do meu currículo e também de me ajudar a aprender algumas coisas novas em Python. Uma das coisas legais que incluí foi o uso do Redis, que é foi implementado para melhorar a performance, especialmente quando combinado com o bom e velho Postgres. Então, além de tornar tudo mais rápido, essa mistura toda também me deu uma ótima lição sobre o uso dessas tecnologias.
 
 Gostaria de lembrar a todos que este projeto serve exclusivamente como um backend para oferecer o serviço de encurtamento de links. Como não requer autenticação de usuário para gerar links, disponibilizo o projeto online para uso geral (enquanto minha assinatura do servidor do Railway estiver ativa). Sinta-se à vontade para baixar o código e editá-lo conforme suas necessidades.
 ## Demonstração
