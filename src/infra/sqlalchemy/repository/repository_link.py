@@ -2,7 +2,7 @@ from sqlalchemy.orm import Session
 from sqlalchemy import select, update
 from src.schemas import schemas
 from src.infra.sqlalchemy.models import models
-from src.jobs.check_short import create_code
+from src.infra.providers.create_short import create_code
 
 
 class RepositoryLink():
